@@ -5,8 +5,8 @@
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/Buehno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buehno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buehno&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buehnoshow_icons=truetheme=draculainclude_all_commits=truecount_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buehnolayout=compactlangs_count=77theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
