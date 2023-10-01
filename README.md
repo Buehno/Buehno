@@ -6,7 +6,7 @@
 
 
 <p align="center">      
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=stoked&weight=900&size=25&pause=1000&color=9D15F7&center=true&vCenter=true&multiline=true&width=439&lines=ANALISTA+DE+SISTEMAS++JR;PONTOS+FORTES+EM+PYTHON+E+MYSQL;ESTUDANTE+;FOCO+EM+SUPERAR+DESAFIOS!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=stoked&weight=900&size=25&pause=1000&color=9D15F7&width=439&lines=ANALISTA+DE+SISTEMAS++JR;PONTOS+FORTES+EM+PYTHON+E+MYSQL;ESTUDANTE+;FOCO+EM+SUPERAR+DESAFIOS!" alt="Typing SVG" /></a>
 </p>
    ## 🖥 &nbsp;Status
 
@@ -29,7 +29,15 @@
  
   ## 🖥 &nbsp;Past work
 
+<summary><h2>📘 My Top Open Source Projects</h2></summary>
 
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+ ![Customized Card] (https://github-readme-stats.vercel.app/api/pin?username=Buehno\&repo=OptiDrive\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
+   
+  </p>
 </div>
 
   
