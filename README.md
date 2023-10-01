@@ -31,13 +31,9 @@
 
 <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
- ![Customized Card] (https://github-readme-stats.vercel.app/api/pin?username=Buehno\&repo=OptiDrive\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-   
-  </p>
+   ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Buehno\&repo=OptiDrive\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
 </div>
 
   
