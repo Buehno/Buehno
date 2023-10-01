@@ -1,5 +1,12 @@
 
 
+
+![Banner de Twitch moderno preto com tela de espera](https://github.com/Buehno/Buehno/assets/146307159/7f91bc70-6bc9-4ce1-8baf-1acd149c919d)
+
+
+
+      
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=501DF7&width=435&lines=ANALISTA+DE+SISTEMA+JR;PONTOS+FORTES+EM+PYTHON+E+MYSQL;ESTUDANTE+;FOCO+EM+SUPERAR+DESAFIOS!" alt="Typing SVG" /></a>
    ## 🖥 &nbsp;Status
 
 
