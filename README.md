@@ -6,7 +6,7 @@
 
 
 <p align="center">      
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=stoked&weight=900&size=25&pause=1000&color=9D15F7&center=true&vCenter=true&multiline=true&width=439&lines=ANALISTA+DE+SISTEMA+JR;PONTOS+FORTES+EM+PYTHON+E+MYSQL;ESTUDANTE+;FOCO+EM+SUPERAR+DESAFIOS!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=stoked&weight=900&size=25&pause=1000&color=9D15F7&center=true&vCenter=true&multiline=true&width=439&lines=ANALISTA+DE+SISTEMAS++JR;PONTOS+FORTES+EM+PYTHON+E+MYSQL;ESTUDANTE+;FOCO+EM+SUPERAR+DESAFIOS!" alt="Typing SVG" /></a>
 </p>
    ## 🖥 &nbsp;Status
 
