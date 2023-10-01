@@ -32,7 +32,8 @@
 <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
 
-   ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Buehno\&repo=OptiDrive.\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Buehno&repo=OptiDrive&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Buehno/OptiDrive)
+
 
 </div>
 
