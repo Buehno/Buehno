@@ -12,7 +12,7 @@
 
 # 🖥&nbsp; Developer Life
 
-![idea-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/e16a3755-cfb1-4e40-9979-88705f892cec) ![mafumafu](https://github.com/Buehno/Buehno/assets/146307159/fd15b9eb-52aa-437a-8b48-90698e98deb4)![sad-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/d73c530a-43f2-421b-bdbb-7fa9914ee5bf)![wow-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/a35544f0-e55b-4d50-83ff-60824c913b6f)![cheers-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/9c17b826-f8c8-4e21-9155-b024ff82677c)
+![idea-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/e16a3755-cfb1-4e40-9979-88705f892cec) ![mafumafu](https://github.com/Buehno/Buehno/assets/146307159/fd15b9eb-52aa-437a-8b48-90698e98deb4)![sad-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/d73c530a-43f2-421b-bdbb-7fa9914ee5bf)![wow-mafumafu](https://github.com/Buehno/Buehno/assets/146307159/a35544f0-e55b-4d50-83ff-60824c913b6f)
 
 
 
