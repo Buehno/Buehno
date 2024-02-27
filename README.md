@@ -29,7 +29,7 @@
 
    ## 🖥 &nbsp;Rewards 📘
 
-![](https://github-profile-trophy.vercel.app/?username=Buehno&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Buehno&theme=jolly&no-frame=false&no-bg=false&margin-w=4)
 
   ## 🖥 &nbsp;Tools 📘
 
